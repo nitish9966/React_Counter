@@ -1,0 +1,30 @@
+.count{
+    text-align: center;
+    font-size: 10vh;
+}
+.buttons{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    margin: 15px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 3vh;
+    font-weight: bold;
+    background-color: hsl(213, 100%, 51%);
+}
+
+button:hover{
+    background-color: black;
+    color: aqua;
+}
+body{
+    background-color: aqua;
+}
